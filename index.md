@@ -15,3 +15,5 @@ We may add more resources later on, so make sure to check back here.
 ## Other Info
 
 By the way, Sri Lanka is hosting the [World School's Debating Championship 2019](https://wsdc2019srilanka.com/). Make sure to check them out!
+
+At the moment, this site is maintained by [Sanuja Rajasinghe](https://github.com/sanujar/), with the theme Cayman for Jekyll.
