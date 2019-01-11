@@ -1,0 +1,17 @@
+# Welcome to the LISW Debating web site!
+
+First of all, welcome! We all hope you enjoy your time debating at LISW. This website contains (and has links to) some resources we have found useful, and think you will find useful as well.
+
+<div style="text-align: right">-The Debating Club, LISW</div>
+
+## Resource List
+
+1. [Simon Quinn - Debating in the World Schools Style](http://sanujarajasinghe.com/debating/PRINTE%20-%20World%20Schools%20Debating%20-%20A%20Guide%20by%20Simon%20Quinn.pdf) - This is the main book we use for school sessions, as well as all the major tournaments. This is divided into three sections: Beginner, Intermediate, and Advanced. We urge all members to at least read the Beginner sections of the book. Additional resources by the author can also be found [here](http://www.learndebating.com/).
+2. [University of Vermont - Debate Central](http://debate.uvm.edu/) - This site has many useful resources for debating, including countless lectures and debates. If you're lucky, you may find a recorded debate of your topic over here. The videos have also been (partially) archived at [archive.org](https://archive.org/details/AlfredSniderVimeoVideo).
+3. [Monash Association of Debaters - Training Handbooks](https://monashdebaters.com/training-resources/training-handbooks/) - Once you have progressed past basic debating, you may find this collection of books to be useful, as they contain a lot of advanced debating techniques and theory that might give you a competitive edge.
+
+We may add more resources later on, so make sure to check back here.
+
+## Other Info
+
+By the way, Sri Lanka is hosting the [World School's Debating Championship 2019](https://wsdc2019srilanka.com/). Make sure to check them out!
