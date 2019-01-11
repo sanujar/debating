@@ -1,6 +1,5 @@
 theme: jekyll-theme-cayman
 title: [LISW Debating]
 description: [A website for debating at LISW]
-show_downloads: ["false"]
 github:
   is_project_page: false
