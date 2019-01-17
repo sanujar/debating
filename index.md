@@ -6,6 +6,8 @@ First of all, welcome! We all hope you enjoy your time debating at LISW. This we
 
 ## Resource List
 
+We maintain an archive of notes handed out during debating sessions. Click here to access an [index of the archive](http://sanujarajasinghe.com/debating/Debating%20Revision%20Notes/).
+
 1. [Simon Quinn - Debating in the World Schools Style](http://sanujarajasinghe.com/debating/PRINTE%20-%20World%20Schools%20Debating%20-%20A%20Guide%20by%20Simon%20Quinn.pdf) - This is the main book we use for school sessions, as well as all the major tournaments. This is divided into three sections: Beginner, Intermediate, and Advanced. We urge all members to at least read the Beginner sections of the book. Additional resources by the author can also be found [here](http://www.learndebating.com/).
 
 2. [Debating Handbook](https://sanujarajasinghe.com/debating/Debating%20Handbook%20(OCRd).pdf) - This was a handout a coach gave some time ago. It contains basic information about the WSDC style, as well as principled arguments. Useful if you're in a hurry, or need a quick briefing. Please go through this as well if you're a more experienced debater.
