@@ -4,6 +4,8 @@ First of all, welcome! We all hope you enjoy your time debating at LISW. This we
 
 <div style="text-align: right">-The Debating Club, LISW</div>
 
+Google Calendar has a calendar for [Debating and MUN activities](https://calendar.google.com/calendar?cid=cmNjZHRmbm52NHE0ZW4wNTJyYmR2cWZwam9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Please visit this site to get the dates of events.
+
 ## Resource List
 
 We maintain an archive of notes handed out during debating sessions. Click here to access an [index of the archive](http://sanujarajasinghe.com/debating/Debating%20Revision%20Notes/).
