@@ -4,11 +4,14 @@ First of all, welcome! We all hope you enjoy your time debating at LISW. This we
 
 <div style="text-align: right">-The Debating Club, LISW</div>
 
-Google Calendar has a calendar for [Debating and MUN activities](https://calendar.google.com/calendar?cid=cmNjZHRmbm52NHE0ZW4wNTJyYmR2cWZwam9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ). Please visit this site to get the dates of events.
 
 ## Resource List
 
 We maintain an archive of notes handed out during debating sessions. Click here to access an [index of the archive](http://sanujarajasinghe.com/debating/Debating%20Revision%20Notes/).
+
+A calendar of all Debating and MUN events happening in the recent future can also be found 
+
+We also maintain a calendar of all Debating and MUN events happening in the near future. [Click here to access the calendar](http://sanujarajasinghe.com/debating/calendar).
 
 1. [Simon Quinn - Debating in the World Schools Style](http://sanujarajasinghe.com/debating/PRINTE%20-%20World%20Schools%20Debating%20-%20A%20Guide%20by%20Simon%20Quinn.pdf) - This is the main book we use for school sessions, as well as all the major tournaments. This is divided into three sections: Beginner, Intermediate, and Advanced. We urge all members to at least read the Beginner sections of the book. Additional resources by the author can also be found [here](http://www.learndebating.com/).
 
