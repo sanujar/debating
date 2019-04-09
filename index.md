@@ -18,7 +18,7 @@ We also maintain a calendar of all Debating and MUN events happening in the near
 
 3. [University of Vermont - Debate Central](http://debate.uvm.edu/) - This site has many useful resources for debating, including countless lectures and debates. If you're lucky, you may find a recorded debate of your topic over here. The videos have also been (partially) archived at [archive.org](https://archive.org/details/AlfredSniderVimeoVideo).
 
-4. [Monash Association of Debaters - Training Handbooks](https://monashdebaters.com/training-resources/training-handbooks/) - Once you have progressed past basic debating, you may find this collection of books to be useful, as they contain a lot of advanced debating techniques and theory that might give you a competitive edge.
+4. [Monash Association of Debaters - Training Handbooks](https://sanujarajasinghe.com/debating/Monash%20Association%20of%20Debaters/) - Once you have progressed past basic debating, you may find this collection of books to be useful, as they contain a lot of advanced debating techniques and theory that might give you a competitive edge.
 
 5. [Michael J. Sandel - Justice: What's the Right Thing to Do?](https://www.amazon.com/Justice-Whats-Right-Thing-Do-ebook/dp/B002RUA4XE/) - This book will help you gain some added knowledge in principled debating, while having an interesting narrative style to it. Also available in [video form](https://www.youtube.com/playlist?list=PL30C13C91CFFEFEA6).
 
