@@ -28,4 +28,6 @@ We may add more resources later on, so make sure to check back here.
 
 By the way, Sri Lanka is hosting the [World School's Debating Championship 2019](https://wsdc2019srilanka.com/). Be sure to check them out!
 
+Also, in case you are into MUN as well, check out [Royal College's Model United Nations (RCMUN) Conference]{https://rcmun.com) happening in September 2019 this year.
+
 At the moment, this site is maintained by [Sanuja Rajasinghe](https://github.com/sanujar/).
